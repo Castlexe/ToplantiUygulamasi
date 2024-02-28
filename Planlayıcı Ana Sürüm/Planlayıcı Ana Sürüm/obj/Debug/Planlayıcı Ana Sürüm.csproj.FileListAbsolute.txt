@@ -1,0 +1,28 @@
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\bin\Debug\Planlayıcı Ana Sürüm.exe.config
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\bin\Debug\Planlayıcı Ana Sürüm.exe
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\bin\Debug\Planlayıcı Ana Sürüm.pdb
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı Ana Sürüm.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı_Ana_Sürüm.Form1.resources
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı_Ana_Sürüm.Form2.resources
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı_Ana_Sürüm.Properties.Resources.resources
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı Ana Sürüm.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı Ana Sürüm.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı Ana Sürüm.exe
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı Ana Sürüm.pdb
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı_Ana_Sürüm.Form3.resources
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı_Ana_Sürüm.Form4.resources
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı_Ana_Sürüm.Form5.resources
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Uygulama\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\bin\Debug\Planlayıcı Ana Sürüm.exe.config
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Uygulama\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\bin\Debug\Planlayıcı Ana Sürüm.exe
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Uygulama\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\bin\Debug\Planlayıcı Ana Sürüm.pdb
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Uygulama\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı Ana Sürüm.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Uygulama\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı_Ana_Sürüm.Form1.resources
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Uygulama\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı_Ana_Sürüm.Form2.resources
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Uygulama\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı_Ana_Sürüm.Form3.resources
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Uygulama\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı_Ana_Sürüm.Form4.resources
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Uygulama\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı_Ana_Sürüm.Form5.resources
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Uygulama\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı_Ana_Sürüm.Properties.Resources.resources
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Uygulama\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı Ana Sürüm.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Uygulama\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı Ana Sürüm.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Uygulama\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı Ana Sürüm.exe
+C:\Users\PC\Desktop\Görsel Programlama\Burhan Karyağdı\Planlayıcı Uygulama\Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm\obj\Debug\Planlayıcı Ana Sürüm.pdb

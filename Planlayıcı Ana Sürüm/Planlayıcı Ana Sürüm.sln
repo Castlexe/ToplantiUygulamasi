@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planlayıcı Ana Sürüm", "Planlayıcı Ana Sürüm\Planlayıcı Ana Sürüm.csproj", "{A6B52629-90C6-44CE-8F85-74B8A09D8B83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6B52629-90C6-44CE-8F85-74B8A09D8B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B52629-90C6-44CE-8F85-74B8A09D8B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B52629-90C6-44CE-8F85-74B8A09D8B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B52629-90C6-44CE-8F85-74B8A09D8B83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67D60047-F1F9-445D-BC5F-6760BBC81F60}
+	EndGlobalSection
+EndGlobal
